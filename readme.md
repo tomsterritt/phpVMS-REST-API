@@ -1,5 +1,5 @@
 #phpVMS REST API
-This is a basic REST API module for access to phpVMS data and functionality in third party clients.
+This is a basic REST API module for access to phpVMS data and functionality, for example in third party clients.
 
 You can find a list of existing features/resources below as well as a (rather long and ever expanding) to do list - all contributions are welcome.
 
