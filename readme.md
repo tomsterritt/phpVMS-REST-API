@@ -63,22 +63,25 @@ Please let me know if there's anything missing from this list or you'd like to s
 - [ ] Paginate schedules list
 - [ ] Airports/Hubs
 - [ ] Viewing pages?
-- [ ] (Admin) Approve/Reject PIREPs
-- [ ] (Admin) Manage airlines
-- [ ] (Admin) Manage schedules
-- [ ] (Admin) Manage aircraft
-- [ ] (Admin) Manage airports
-- [ ] (Admin) Manage news
-- [ ] (Admin) Manage pages
-- [ ] (Admin) Manage downloads
-- [ ] (Admin) Send mass email
-- [ ] (Admin) Manage pilot groups
-- [ ] (Admin) Manage pilot ranks
-- [ ] (Admin) Manage awards
-- [ ] (Admin) Financials
-- [ ] (Admin) Site settings
-- [ ] (Admin) Admin logs
-- [ ] (Admin) Maintenance options
+
+####Admin
+
+- [ ] Approve/Reject PIREPs
+- [ ] Manage airlines
+- [ ] Manage schedules
+- [ ] Manage aircraft
+- [ ] Manage airports
+- [ ] Manage news
+- [ ] Manage pages
+- [ ] Manage downloads
+- [ ] Send mass email
+- [ ] Manage pilot groups
+- [ ] Manage pilot ranks
+- [ ] Manage awards
+- [ ] Financials
+- [ ] Site settings
+- [ ] Admin logs
+- [ ] Maintenance options
 
 ###Licence
 Released under the [&#9786; Licence](http://licence.visualidiot.com/)
