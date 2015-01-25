@@ -208,7 +208,7 @@ class API extends CodonModule {
         self::setup();
         
         $arr = array(
-            "version" => "1.0.0",
+            "version" => "0.1.0",
             "message" => "Please do not edit or remove this default message. It can be useful for clients to check you have the module installed, and at a compatible version, before attempting to make requests."
         );
         self::sendJSON($arr);
