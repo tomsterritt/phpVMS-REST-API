@@ -18,7 +18,7 @@ class APIBids {
         
         if($numArgs == 0 && API::requestMethod("POST")){
             // Add a bid
-            $this->AddBid();
+            $this->addBid();
         }
         
         API::noMethod();
