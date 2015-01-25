@@ -16,6 +16,7 @@ Simply upload the files within the [core](/core) folder to your phpVMS root.
 - Only available to confirmed registered users
 - Removes sensitive information from responses (encrypted password, salt, emails, IP addresses)
 - All PUT/POST data is expected to be JSON
+- Modular API resources - easy for other modules to include API functionality
 
 ####News
 Resource URI          | HTTP Method | Data  | Purpose
@@ -54,7 +55,7 @@ Resource URI | HTTP Method | Data   | Purpose
 Please let me know if there's anything missing from this list or you'd like to see included
 
 - [ ] __Better auth method (token based?)__
-- [ ] It's all in one file. Difficult to read. How can this be improved?
+- [x] ~~It's all in one file. Difficult to read. How can this be improved?~~
 - [ ] Editing pilot profile
 - [ ] View PIREPs
 - [ ] Submit a PIREP?
